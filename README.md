@@ -4,8 +4,8 @@ Here is the deployed link for play around:
 
 How to run in local: 
 
-1. Clone the respository in local.
-2. Head over to project and run "npm install"
+1. Clone the respository in local by running this in local terminal "git clone https://github.com/Tushardeepak/LSEG.git"
+2. Head over to cloned project floder and run "npm install"
 3. After it finished run "npm start"
 4. In browser the app start
 
