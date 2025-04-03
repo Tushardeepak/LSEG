@@ -1,6 +1,6 @@
 # LSEG UI - Chatbot
 
-Here is the deployed link for play around: 
+Here is the deployed link for play around: https://lseg-tushar-deepak.netlify.app/
 
 How to run in local: 
 
