@@ -1,0 +1,15 @@
+.errorBannerContainer {
+  height: 30px;
+  background-color: rgba(255, 46, 46, 0.625);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px 20px;
+  font-size: 12px;
+}
+
+.tryAgainButton {
+  cursor: pointer;
+}
